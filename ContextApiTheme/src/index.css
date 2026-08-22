@@ -1,0 +1,33 @@
+/* Reset => [GLOBAL ONLY] */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* App layout */
+.app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s;
+}
+
+/* Light & Dark theme */
+.light {
+  background: #fff;
+  color: #000;
+}
+
+.dark {
+  background: #111;
+  color: #fff;
+}
+
+/* Button */
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}

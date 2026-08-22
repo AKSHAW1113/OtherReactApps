@@ -1,0 +1,25 @@
+.accrodian {
+  width: 700px;
+  margin: 20px auto;
+}
+
+.accrodian-title {
+  background: #eee;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.accrodian-content {
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+}
+
+.right {
+  float: right;
+}
+

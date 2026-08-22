@@ -1,2 +1,0 @@
-# OtherReactApps
-OtherReactApps
